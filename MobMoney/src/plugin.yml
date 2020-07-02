@@ -1,0 +1,5 @@
+main: me.andreiwasfound.mobmoney.Main
+name: MobMoney
+author: AndreiWasFound
+version: 1.0
+depend: [Vault]
